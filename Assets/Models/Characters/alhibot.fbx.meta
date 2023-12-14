@@ -3,7 +3,107 @@ guid: d1f44239de1ac0a4180d4bca48010b5f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: ae62044d205d30e459519be552c85f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_01_01
+    second: {fileID: 2100000, guid: e02eaf050da992842b7372ae94812f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_01_01.001
+    second: {fileID: 2100000, guid: 6a5166093687312418c9bb2c98060c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_01_02
+    second: {fileID: 2100000, guid: c7a6f6d61e7c6ad468e8bfb9f4834b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_01_02.001
+    second: {fileID: 2100000, guid: faa3da60cf4b7a84a83fe2df2056f4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_01_02.002
+    second: {fileID: 2100000, guid: 3ca132951b2afaf4fa49a9899a89e1c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_01
+    second: {fileID: 2100000, guid: fb7f270da5b09a3468417b87f7834076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_01.001
+    second: {fileID: 2100000, guid: 76ed26d580a06564d84fc5d9be03fd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_02
+    second: {fileID: 2100000, guid: 51b904e3fc085e94389af69af617c9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_02.001
+    second: {fileID: 2100000, guid: 94041f24e00658a428e78e782c922838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_02.002
+    second: {fileID: 2100000, guid: 218c9cbd8ed51b94db77849781bdbe27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_02_03
+    second: {fileID: 2100000, guid: 11c0998a999643845a8231bd732327b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_01
+    second: {fileID: 2100000, guid: 4a5238d16433fd2469a23b73f8241fdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_02
+    second: {fileID: 2100000, guid: 2d085c9f1d58429479619e8fa86e3f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_02.001
+    second: {fileID: 2100000, guid: 8a4d869444a69ab4db17f00d432382b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_03
+    second: {fileID: 2100000, guid: 955b6c174c0e4334290db3cfaf797739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_03.001
+    second: {fileID: 2100000, guid: 497c8e49c07ec184cacc40487eb3107a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_03.002
+    second: {fileID: 2100000, guid: 574559ab14802ac4790e2a9e577271bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_03.003
+    second: {fileID: 2100000, guid: 9c3e6caabb6a7ea4bad747c4f29e5aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_03.004
+    second: {fileID: 2100000, guid: 2b3f306022912974296069c7ba3db070, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
