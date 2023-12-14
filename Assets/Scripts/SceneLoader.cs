@@ -17,6 +17,6 @@ public class SceneLoader : MonoBehaviour
     }
 
     public void ExitButton() {
-        Debug.Log("EXIT COMPLETE!");
+        Debug.Log("EXIT ERROR");
     }
 }
