@@ -824,13 +824,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1026199394}
-  m_LocalRotation: {x: 0, y: 0, z: -0.14780933, w: 0.9890159}
+  m_LocalRotation: {x: 0, y: 0, z: -0.13052624, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0032674, y: 1.4166231, z: 1.0001878}
+  m_LocalScale: {x: 1.0032674, y: 18.36035, z: 1.0001878}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 800947863}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -15}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 246.99994, y: -4}
@@ -899,13 +899,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1039265698}
-  m_LocalRotation: {x: 0, y: 0, z: -0.14780933, w: 0.9890159}
+  m_LocalRotation: {x: 0, y: 0, z: -0.13052624, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0030787, y: 1.391122, z: 1}
+  m_LocalScale: {x: 1.0030787, y: 17.968042, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 800947863}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -15}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 210, y: -8}
@@ -1108,13 +1108,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1373448930}
-  m_LocalRotation: {x: 0, y: 0, z: -0.14780933, w: 0.9890159}
+  m_LocalRotation: {x: 0, y: 0, z: -0.13052624, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0030787, y: 1.3936108, z: 1}
+  m_LocalScale: {x: 1.0030787, y: 17.593248, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 800947863}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -15}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 173.99994, y: 0}
